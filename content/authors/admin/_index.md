@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include high energy astrophysics and gravitational wave astronomy.
 
 interests:
 - Multimessenger Pulsar Astrophysics
@@ -64,5 +64,5 @@ user_groups:
 - Visitors
 ---
 
-I am a theoretical astrophysicist undertaking research for my PhD within the [Astrophysics group](https://www.ucl.ac.uk/mssl/research/astrophysics) at [University College London](https://www.ucl.ac.uk/)in the [Mullard Space Science Laboratory](http://www.ucl.ac.uk/mssl). My PhD advisors are [Kinwah Wu](https://www.ucl.ac.uk/mssl/people/prof-kinwah-wu) and [Silvia Zane](https://www.ucl.ac.uk/mssl/people/prof-silvia-zane).
+I am a theoretical astrophysicist undertaking research for my PhD within the [Astrophysics group](https://www.ucl.ac.uk/mssl/research/astrophysics) at [University College London](https://www.ucl.ac.uk/) in the [Mullard Space Science Laboratory](http://www.ucl.ac.uk/mssl). My PhD advisors are [Kinwah Wu](https://www.ucl.ac.uk/mssl/people/prof-kinwah-wu) and [Silvia Zane](https://www.ucl.ac.uk/mssl/people/prof-silvia-zane).
 
