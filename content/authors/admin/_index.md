@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Multimessenger Pulsar Astrophysics
+- Strong-field General Relativity
+- Gravitational Wave Astrophysics
 
 education:
   courses:
@@ -31,7 +31,7 @@ education:
     institution: University College London
     year: 2020
   - course: MPhys in Physics
-    institution: Massachusetts Institute of Technology
+    institution: Durham University
     year: 2016
 
 # Social/Academic Networking
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:tom.kimpson.16@ucl.ac.uk".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
