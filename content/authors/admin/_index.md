@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-I am a theoretical astrophysicist undertaking research for my PhD within the <a href="https://www.ucl.ac.uk/mssl/research/astrophysics">Astrophysics Group</a> at <a href="https://www.ucl.ac.uk/">University College London</a> in the <a href="http://www.ucl.ac.uk/mssl">Mullard Space Science Laboratory</a>. My PhD advisors are <a href="https://www.ucl.ac.uk/mssl/people/prof-kinwah-wu">Kinwah Wu</a> and <a href="https://www.ucl.ac.uk/mssl/people/prof-silvia-zane">Silvia Zane.</a>
+I am a theoretical astrophysicist undertaking research for my PhD within the [Astrophysics group](https://www.ucl.ac.uk/mssl/research/astrophysics) at [University College London](https://www.ucl.ac.uk/)in the [Mullard Space Science Laboratory](http://www.ucl.ac.uk/mssl). My PhD advisors are [Kinwah Wu](https://www.ucl.ac.uk/mssl/people/prof-kinwah-wu) and [Silvia Zane](https://www.ucl.ac.uk/mssl/people/prof-silvia-zane).
 
