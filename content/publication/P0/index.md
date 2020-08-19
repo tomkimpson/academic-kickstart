@@ -12,5 +12,5 @@ links:
   - icon_pack: 
     icon: 
     name: arxiv
-    url: 'https://twitter.com/Twitter'
+    url: 'https://arxiv.org/abs/1608.05422'
 ---
