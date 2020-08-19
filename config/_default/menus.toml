@@ -24,8 +24,8 @@
   weight = 40
 
 [[main]]
-  name = "Contact1"
-  url = "https://tomkimpson.com/landing/"
+  name = "Landing"
+  url = "landing/"
   weight = 60
   
 [[main]]
