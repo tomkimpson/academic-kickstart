@@ -1,3 +1,3 @@
 ---
-title: "Test Publication"
+title: An example title
 ---
