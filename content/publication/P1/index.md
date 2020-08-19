@@ -7,10 +7,10 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*MNRAS*"
-doi: "10.1093/mnras/stw2085"
+doi: "10.1093/mnras/stz138"
 links:
   - icon_pack: 
     icon: 
     name: arxiv
-    url: 'https://arxiv.org/abs/1608.05422'
+    url: 'https://arxiv.org/abs/1901.03733'
 ---
