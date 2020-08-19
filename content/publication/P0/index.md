@@ -9,6 +9,8 @@ featured: false
 publication: "*MNRAS*"
 doi: "10.1093/mnras/stw2085"
 links:
-    -name: arxiv
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
     url: 'https://twitter.com/Twitter'
 ---
