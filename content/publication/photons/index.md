@@ -1,4 +1,3 @@
 ---
 title: "Test Publication"
-date: 2020-08-18T19:52:15+01:00
 ---
