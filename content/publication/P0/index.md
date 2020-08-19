@@ -8,4 +8,9 @@ abstract: ""
 featured: false
 publication: "*MNRAS*"
 doi: "10.1093/mnras/stw2085"
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
 ---
