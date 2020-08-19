@@ -2,7 +2,7 @@
 title: "Prospects for Fundamental Physics with LISA"
 date: 2020-01-01
 publishDate: 2020-01-01T00:00:00.000000Z
-authors: ["Barausse. E", "et al. including T.Kimpson", "and S. Zane"]
+authors: ["Barausse. E", "et al. including T.Kimpson"]
 publication_types: ["2"]
 abstract: ""
 featured: false
