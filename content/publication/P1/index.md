@@ -2,7 +2,7 @@
 title: "Spatial dispersion of light rays propagating through a plasma in Kerr spacetime"
 date: 2016-12-01
 publishDate: 2016-12-01T00:00:00.000000Z
-authors: ["T. Kimpson", "M. Spera", "M. Mapelli", "and B. Ziosi "]
+authors: ["T. Kimpson", "K. Wu", "and S. Zane"]
 publication_types: ["2"]
 abstract: ""
 featured: false
