@@ -9,6 +9,6 @@ featured: false
 publication: "*MNRAS*"
 doi: "10.1093/mnras/stw2085"
 links:
-    name: arxiv
-    url: 'https://arxiv.org/abs/1608.05422'
+    -name: arxiv
+    url: 'https://twitter.com/Twitter'
 ---
