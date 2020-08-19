@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Code"
-  url = "landing/"
+  url = "project/"
   weight = 60
   
 [[main]]
