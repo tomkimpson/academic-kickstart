@@ -17,7 +17,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Github
-  url: https://github.com/tomkimpson/RayTracing
+  url: https://github.com/tomkimpson/Iliad
 url_code: ""
 url_pdf: ""
 url_slides: ""
