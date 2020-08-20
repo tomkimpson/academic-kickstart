@@ -1,6 +1,6 @@
 ---
 title: Ray Tracing in Kerr Spacetime
-summary: An example of using the in-built project page.
+summary: What is the path of light through a curved spacetime around a spinning black hole?
 tags:
 - General Relativity
 - Numerical Methods
