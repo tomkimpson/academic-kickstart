@@ -10,13 +10,13 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
+  name: Github
   url: https://github.com/tomkimpson/SpinCurvatureDynamics
 url_code: ""
 url_pdf: ""
