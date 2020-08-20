@@ -31,4 +31,4 @@ url_video: ""
 slides: example
 ---
 
-This code lays the foundations for constructing synthetic time-frequency data from a millisecond pulsar orbiting a massive black hole (e.g. Galactic centre). See also (Pulsar timing in extreme mass ratio binaries: a general relativistic approach)[https://tomkimpson.com/publication/p2/]
+This code lays the foundations for constructing synthetic time-frequency data from a millisecond pulsar orbiting a massive black hole (e.g. Galactic centre). See also [Pulsar timing in extreme mass ratio binaries: a general relativistic approach](https://tomkimpson.com/publication/p2/)
