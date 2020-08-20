@@ -3,7 +3,7 @@ title: Spin Curvature Dynamics
 summary: What is the dynamical evolution of a spinning pulsar orbiting a spinning black hole?
 tags:
 - General Relativity
--Numerical Methods
+- Numerical Methods
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
