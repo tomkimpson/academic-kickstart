@@ -1,27 +1,27 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Some example talk"
-event: this meeting
+title: "Spatial dispersion in the strong-field: implications for PSR timing,"
+event: 
 event_url:
-location: Kolkata, India
+location: INAF Cagliari, Italy
 address:
-  street: VECC, 1 AF Bidhannagar
-  city: Kolkata
-  region: West Bengal
-  postcode: 700064
-  country: India
-summary: Talk at **CNT QGP Meet 2015** 
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
+summary: Colloquium talk at Talk at **INAF Cagliari** 
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2015-11-17T11:20:01+05:30
-date_end: 2015-11-17T11:40:01+05:30
+date: 2018-03-01T11:20:01+05:30
+#date_end: 2015-11-17T11:40:01+05:30
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2015-11-17T11:20:01+05:30
+publishDate: 
 
 authors: []
 tags: []
@@ -64,5 +64,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: content/project/raytracing/index.md
 ---
