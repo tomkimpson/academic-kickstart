@@ -4,7 +4,7 @@
 title: "Pulsars as probes of strong-field GR,"
 event: 
 event_url:
-location: UCL
+location: University College London (UCL)
 address:
   street: 
   city: London

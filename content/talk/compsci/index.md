@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Strong Field Pulsar Timing"
+title: "Computational modelling in the gravitational strong field"
 event: 
 event_url:
-location: University College London (UCL)
+location: Computational Sciences in the 21st Century, UCL
 address:
   street: 
-  city: London
+  city: 
   region: 
   postcode: 
   country: 
-summary: Conference talk at **SPINS-UK** 
+summary: Conference poster at **Computational Sciences in the 21st Century, UCL** 
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-05-10T14:00:00Z
+date: 2019-01-10T14:00:00Z
 #date_end: 2015-11-17T11:40:01+05:30
 all_day: false
 
