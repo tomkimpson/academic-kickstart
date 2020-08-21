@@ -29,8 +29,8 @@
   weight = 50
 
 [[main]]
-  name = "bioop"
-  url = "files/cv1.pdf"
+  name = "cioop"
+  url = "publication/"
   weight=60
 
 
