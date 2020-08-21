@@ -1,16 +1,68 @@
 ---
-title: "some exampel talk"
-date: 2020-06-01
-publishDate: 2020-06-01T00:00:00.000000Z
-authors: ["T. Kimpson", "K. Wu", "and S. Zane"]
-publication_types: ["2"]
-abstract: "We investigate the spin dynamics of a millisecond pulsar (MSP) in compact orbit around a Kerr-like massive black hole with an general mass quadrupole. We use the Mathisson-Papetrou-Dixon formulation to compute the orbital and spin evolution of the MSP, accounting for the non-linear interaction of the pulsar's energy-momentum tensor on the background spacetime metric. We investigate how the MSP spin and BH quadrupole moment manifest in the pulsar spin-orbital dynamics. We discuss the astrophysical observational implications of these spin and orbital dynamics on the timing of a radio pulsar in an Extreme Mass Ratio Binary, e.g. a Galactic Centre pulsar. In particular, notable timing variations in the Einstein delay and Roemer delay are observed, along with modifications to the pulsar pulse profile."
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Spatial dispersion in the strong-field: implications for PSR timing,"
+event: 
+event_url:
+location: INAF Cagliari, Italy
+address:
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
+summary: Colloquium talk at Talk at **INAF Cagliari** 
+abstract:
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: 2015-11-17
+#date_end: 2015-11-17T11:40:01+05:30
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: 
+
+authors: []
+tags: []
+
+# Is this a featured talk? (true/false)
 featured: false
-publication: "*MNRAS*"
-doi: "10.1093/mnras/staa1259"
-links:
-  - icon_pack: 
-    icon: 
-    name: arxiv
-    url: 'https://arxiv.org/abs/2007.05219'
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+# Optional filename of your slides within your talk's folder or a URL.
+url_slides:
+
+url_code:
+url_pdf:
+url_video:
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
