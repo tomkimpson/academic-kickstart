@@ -64,6 +64,5 @@ user_groups:
 - Visitors
 ---
 
-**This site is currently under reconstruction**
 I am a theoretical astrophysicist undertaking research for my PhD within the [Astrophysics group](https://www.ucl.ac.uk/mssl/research/astrophysics) at [University College London](https://www.ucl.ac.uk/) in the [Mullard Space Science Laboratory](http://www.ucl.ac.uk/mssl). My PhD advisors are [Kinwah Wu](https://www.ucl.ac.uk/mssl/people/prof-kinwah-wu) and [Silvia Zane](https://www.ucl.ac.uk/mssl/people/prof-silvia-zane).
 
