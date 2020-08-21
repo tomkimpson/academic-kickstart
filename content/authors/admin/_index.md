@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:tom.kimpson.16@ucl.ac.uk".
+  link: 'mailto:tom.kimpson.16@ucl.ac.uk'  # For a direct email link, use "mailto:tom.kimpson.16@ucl.ac.uk".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/tomkimpson/
