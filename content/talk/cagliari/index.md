@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Spatial dispersion in the strong-field: implications for PSR timing,"
+title: "Spatial dispersion in the strong-field: implications for PSR timing"
 event: 
 event_url:
 location: INAF Cagliari, Italy

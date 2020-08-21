@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "General Relativistic Pulsar Timing,,"
+title: "General Relativistic Pulsar Timing"
 event: 
 event_url:
 location: Mullard Space Science Laboratory, UCL
@@ -16,7 +16,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018-03-17T14:00:00Z
+date: 2019-01-10T14:00:00Z
 #date_end: 2015-11-17T11:40:01+05:30
 all_day: false
 
