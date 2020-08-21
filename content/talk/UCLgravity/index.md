@@ -7,7 +7,7 @@ event_url:
 location: UCL
 address:
   street: 
-  city: 
+  city: London
   region: 
   postcode: 
   country: 
