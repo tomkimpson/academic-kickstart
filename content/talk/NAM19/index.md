@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Computational modelling in the gravitational strong field"
+title: "Pulsar Timing in Extreme Mass Ratio Binaries"
 event: 
 event_url:
-location: Computational Sciences in the 21st Century, UCL
+location: National Astronomy Meeting, Lancaster
 address:
   street: 
   city: 
   region: 
   postcode: 
   country: 
-summary: Conference poster at **Computational Sciences in the 21st Century, UCL** 
+summary: Conference talk at **NAM 2019** 
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-06-21T14:00:00Z
+date: 2019-07-12T14:00:00Z
 #date_end: 2015-11-17T11:40:01+05:30
 all_day: false
 
