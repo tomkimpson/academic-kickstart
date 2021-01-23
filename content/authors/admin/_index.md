@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include high energy astrophysics and gravitational wave astronomy.
 
 interests:
-- Multimessenger Pulsar Astrophysics
 - Strong-field General Relativity
 - Gravitational Wave Astrophysics
+- Multimessenger Pulsar Astrophysics
 
 education:
   courses:
