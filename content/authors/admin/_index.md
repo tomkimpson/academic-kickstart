@@ -20,19 +20,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include high energy astrophysics and gravitational wave astronomy.
 
-interests:
-- Strong-field General Relativity
-- Gravitational Wave Astrophysics
-- Multimessenger Pulsar Astrophysics
+#interests:
+#- Strong-field General Relativity
+#- Gravitational Wave Astrophysics
+#- Multimessenger Pulsar Astrophysics
 
-education:
-  courses:
-  - course: PhD in Theoretical Astrophysics
-    institution: University College London
-    year: 2020
-  - course: MPhys in Physics
-    institution: Durham University
-    year: 2016
+#education:
+ # courses:
+  #- course: PhD in Theoretical Astrophysics
+   # institution: University College London
+    #year: 2020
+ # - course: MPhys in Physics
+  #  institution: Durham University
+   # year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
